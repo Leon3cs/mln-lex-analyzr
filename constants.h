@@ -1,0 +1,9 @@
+#define CONST_FREAD_PARAM 1
+#define ALNUM_LENGTH 36
+#define OPEN_CLOSE_LENGTH 5
+#define REL_LENGTH 3
+#define MATH_LENGTH 5
+#define ATRIB_LENGTH 1
+#define MISC_LENGTH 5
+#define COMMAND_LENGTH 11
+#define NUM_LENGTH 10
